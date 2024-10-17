@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **MongoDB, ExpressJs, ReactJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ripjaws123](https://github.com/Ripjaws123)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Ripjaws123)
 
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **contact.ripongoswami@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uT9F3J5-fvOc_ntqTemy8O7SvsFUC4df/view?usp=drive_link](https://drive.google.com/file/d/1bY68boWeTTdxBW_3riGuQdgQE6Mazv1E/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bY68boWeTTdxBW_3riGuQdgQE6Mazv1E/view?usp=sharing)
 
 - ⚡ Fun fact **I love to Play Mobile Games**
 
